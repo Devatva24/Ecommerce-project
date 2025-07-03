@@ -1,1 +1,1 @@
-Ecommerce backend using SpringBoot
+Ecommerce website backend using SpringBoot
